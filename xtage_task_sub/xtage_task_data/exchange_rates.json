@@ -1,0 +1,5002 @@
+[
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 1.0467,
+        "Date": "2022-10-10"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.8946,
+        "Date": "2022-01-21"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.1472,
+        "Date": "2022-04-07"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.6749,
+        "Date": "2022-08-25"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.5259,
+        "Date": "2022-04-18"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.4603,
+        "Date": "2022-12-24"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.5843,
+        "Date": "2022-11-19"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": -0.2994,
+        "Date": "2022-01-15"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.9274,
+        "Date": "2022-06-21"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.4756,
+        "Date": "2022-02-21"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.4204,
+        "Date": "2022-09-18"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 1.1994,
+        "Date": "2022-07-04"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.1365,
+        "Date": "2022-11-25"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.7213,
+        "Date": "2022-08-28"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.3387,
+        "Date": "2022-07-28"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": null,
+        "Date": "2022-03-25"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.5115,
+        "Date": "2022-11-01"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.9226,
+        "Date": "2022-10-03"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.943,
+        "Date": "2022-01-31"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": -0.4298,
+        "Date": "2022-02-10"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.164,
+        "Date": "2022-02-11"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.2348,
+        "Date": "2022-05-16"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 1.1318,
+        "Date": "2022-07-16"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 1.3106,
+        "Date": "2022-02-17"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.7788,
+        "Date": "2022-01-12"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.1838,
+        "Date": "2022-03-08"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 1.2544,
+        "Date": "2022-08-17"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 1.3418,
+        "Date": "2022-08-26"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.063,
+        "Date": ""
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": -0.0141,
+        "Date": "2022-07-23"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 1.4804,
+        "Date": "2022-09-11"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 1.2151,
+        "Date": "2022-11-27"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": -0.0634,
+        "Date": "2022-12-19"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": null,
+        "Date": "2022-10-22"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.0737,
+        "Date": "2022-12-20"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": -0.448,
+        "Date": "2022-01-12"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.6269,
+        "Date": "2022-05-09"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.1303,
+        "Date": "2022-10-03"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.375,
+        "Date": "2022-02-09"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.3171,
+        "Date": "2022-10-18"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.0677,
+        "Date": "2022-04-17"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 1.245,
+        "Date": "2022-02-04"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.1287,
+        "Date": "2022-12-02"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 1.4513,
+        "Date": "2022-04-10"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.1802,
+        "Date": "2022-05-26"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.2007,
+        "Date": "2022-09-04"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": null,
+        "Date": "2022-11-09"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": -0.2536,
+        "Date": "2022-11-03"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.2931,
+        "Date": "2022-10-23"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.5873,
+        "Date": "2022-03-12"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 1.009,
+        "Date": "2022-01-11"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.2049,
+        "Date": "2022-04-17"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 1.4249,
+        "Date": "2022-06-25"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.2662,
+        "Date": "2022-10-25"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.7436,
+        "Date": "2022-05-20"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.5813,
+        "Date": "2022-11-06"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 1.4031,
+        "Date": "2022-11-21"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.5455,
+        "Date": "2022-04-22"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.7213,
+        "Date": "2022-06-03"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 1.049,
+        "Date": "2022-12-29"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.5617,
+        "Date": "2022-12-28"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.5066,
+        "Date": "2022-08-30"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.4175,
+        "Date": "2022-03-17"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.2654,
+        "Date": "2022-12-27"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.3653,
+        "Date": "2022-03-01"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.906,
+        "Date": "2022-05-28"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.2139,
+        "Date": "2022-02-07"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.3882,
+        "Date": "2022-08-19"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": -0.3204,
+        "Date": "2022-05-20"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.2437,
+        "Date": "2022-01-07"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": -0.0925,
+        "Date": "2022-07-10"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.5717,
+        "Date": "2022-03-02"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": -0.4092,
+        "Date": "2022-10-26"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.7362,
+        "Date": "2022-04-06"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.9145,
+        "Date": "2022-05-08"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.1953,
+        "Date": "2022-04-05"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": -0.4338,
+        "Date": "2022-10-26"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.282,
+        "Date": "2022-12-26"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.3375,
+        "Date": "2022-02-19"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.2958,
+        "Date": "2022-12-13"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.4899,
+        "Date": "2022-12-02"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": null,
+        "Date": "2022-11-28"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.0864,
+        "Date": "2022-08-08"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 1.4214,
+        "Date": "2022-11-19"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": -0.4487,
+        "Date": "2022-10-22"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": null,
+        "Date": "2022-09-04"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.3677,
+        "Date": "2022-04-08"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.7127,
+        "Date": "2022-06-10"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.2337,
+        "Date": "2022-09-28"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.8407,
+        "Date": "2022-07-09"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 1.1661,
+        "Date": "2022-01-03"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": -0.1218,
+        "Date": "2022-03-13"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.9597,
+        "Date": "2022-03-26"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 1.0817,
+        "Date": "2022-01-09"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 1.3037,
+        "Date": "2022-07-26"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.6352,
+        "Date": "2022-08-26"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.9202,
+        "Date": "2022-02-21"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": -0.4928,
+        "Date": "2022-03-02"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": -0.0359,
+        "Date": "2022-05-22"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.6523,
+        "Date": "2022-06-07"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": -0.2527,
+        "Date": "2022-11-24"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 1.4349,
+        "Date": "2022-09-26"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 1.1738,
+        "Date": "2022-03-18"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.024,
+        "Date": "2022-07-28"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.7341,
+        "Date": "2022-04-09"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.3838,
+        "Date": "2022-10-27"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.7677,
+        "Date": "2022-02-01"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": -0.1435,
+        "Date": "2022-04-27"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.4697,
+        "Date": "2022-03-23"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 1.2703,
+        "Date": "2022-05-30"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": -0.4328,
+        "Date": "2022-05-31"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.8055,
+        "Date": "2022-08-17"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.2513,
+        "Date": "2022-08-14"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 1.4746,
+        "Date": "2022-10-08"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.1053,
+        "Date": "2022-06-07"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.0528,
+        "Date": "2022-06-18"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": -0.1813,
+        "Date": "2022-04-18"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 1.1543,
+        "Date": "2022-02-26"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 1.2053,
+        "Date": "2022-06-18"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.9077,
+        "Date": "2022-08-28"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": -0.2963,
+        "Date": "2022-12-17"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": null,
+        "Date": "2022-10-27"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.6685,
+        "Date": "2022-11-15"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 1.4734,
+        "Date": "2022-02-23"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": -0.4398,
+        "Date": "2022-03-01"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 1.2006,
+        "Date": "2022-10-11"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.3519,
+        "Date": "2022-06-20"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.8332,
+        "Date": "2022-11-26"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": null,
+        "Date": "2022-04-15"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": -0.0505,
+        "Date": "2022-01-02"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.7372,
+        "Date": "2022-05-31"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 1.0936,
+        "Date": "2022-10-20"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": -0.0707,
+        "Date": "2022-06-08"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.1919,
+        "Date": "2022-09-14"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.4386,
+        "Date": "2022-03-11"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.4648,
+        "Date": "2022-03-31"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 1.3288,
+        "Date": ""
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": -0.0244,
+        "Date": "2022-04-20"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.2058,
+        "Date": "2022-08-23"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": -0.0886,
+        "Date": "2022-10-29"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.1475,
+        "Date": "2022-01-03"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": -0.4395,
+        "Date": "2022-01-02"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": -0.1285,
+        "Date": "2022-12-25"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.4014,
+        "Date": "2022-11-10"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.306,
+        "Date": "2022-07-13"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": -0.0235,
+        "Date": "2022-09-25"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.6287,
+        "Date": "2022-05-11"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.9485,
+        "Date": "2022-10-17"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 1.2104,
+        "Date": "2022-04-27"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": null,
+        "Date": "2022-07-16"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.0954,
+        "Date": "2022-07-04"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": -0.4497,
+        "Date": "2022-03-22"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 1.1944,
+        "Date": "2022-01-31"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.9162,
+        "Date": "2022-08-28"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": -0.4104,
+        "Date": "2023-01-01"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": -0.1398,
+        "Date": "2022-03-28"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.4287,
+        "Date": "2022-03-19"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.1193,
+        "Date": "2022-05-11"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.2302,
+        "Date": "2022-07-13"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": null,
+        "Date": "2022-10-16"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 1.2254,
+        "Date": "2022-11-27"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 1.3273,
+        "Date": "2022-09-22"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": -0.2284,
+        "Date": "2022-08-10"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 1.0445,
+        "Date": "2022-08-04"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": -0.246,
+        "Date": "2022-06-18"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.2898,
+        "Date": "2022-03-31"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.3994,
+        "Date": "2022-11-21"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 1.4516,
+        "Date": "2022-05-02"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.331,
+        "Date": "2022-08-31"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.1911,
+        "Date": "2022-05-16"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": -0.3888,
+        "Date": "2022-10-05"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.509,
+        "Date": "2022-12-26"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.5125,
+        "Date": "2022-03-19"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.9057,
+        "Date": "2022-05-23"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 1.4656,
+        "Date": "2022-03-27"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 1.0483,
+        "Date": "2022-08-21"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 1.3326,
+        "Date": "2022-11-26"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.3082,
+        "Date": "2022-03-06"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 1.279,
+        "Date": "2022-11-09"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.3426,
+        "Date": "2022-09-29"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.1568,
+        "Date": "2022-12-06"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": -0.1895,
+        "Date": "2022-01-22"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": -0.3234,
+        "Date": "2022-11-17"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.4466,
+        "Date": "2022-06-19"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.8967,
+        "Date": "2022-04-02"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": null,
+        "Date": "2022-10-04"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": -0.3762,
+        "Date": "2022-02-16"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": -0.2672,
+        "Date": "2022-09-20"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": -0.0979,
+        "Date": "2022-11-06"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.5671,
+        "Date": "2022-11-19"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.5215,
+        "Date": "2022-07-30"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.6407,
+        "Date": "2022-01-31"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": null,
+        "Date": "2022-11-24"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": -0.3042,
+        "Date": "2022-05-06"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": -0.4979,
+        "Date": "2022-01-18"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.2304,
+        "Date": "2022-03-28"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.2403,
+        "Date": "2022-08-03"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": null,
+        "Date": "2022-12-01"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.3327,
+        "Date": "2022-05-20"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.8216,
+        "Date": "2022-01-29"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 1.1069,
+        "Date": "2022-09-21"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.257,
+        "Date": ""
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 1.2932,
+        "Date": "2022-05-10"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.1923,
+        "Date": "2022-08-06"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.3757,
+        "Date": "2022-03-12"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.7099,
+        "Date": "2022-01-11"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 1.4343,
+        "Date": "2022-02-14"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": -0.1919,
+        "Date": "2022-07-12"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.1595,
+        "Date": "2022-12-18"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 1.083,
+        "Date": "2022-08-31"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": -0.2649,
+        "Date": "2022-06-24"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.2254,
+        "Date": "2022-12-13"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.7429,
+        "Date": "2022-11-28"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.0494,
+        "Date": "2022-06-15"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": -0.4353,
+        "Date": "2022-12-29"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 1.4428,
+        "Date": "2022-03-09"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 1.3325,
+        "Date": "2022-08-26"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.002,
+        "Date": "2022-07-25"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.9102,
+        "Date": "2022-04-30"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": -0.1585,
+        "Date": "2022-01-08"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 1.3563,
+        "Date": "2022-12-09"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": null,
+        "Date": "2022-10-08"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 1.4563,
+        "Date": "2022-07-15"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.4042,
+        "Date": "2022-03-20"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": -0.4568,
+        "Date": "2022-10-26"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.8587,
+        "Date": "2022-07-25"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.982,
+        "Date": ""
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": null,
+        "Date": "2022-05-09"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.3462,
+        "Date": "2022-04-26"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.2766,
+        "Date": "2022-12-09"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": -0.4401,
+        "Date": "2022-12-05"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 1.1514,
+        "Date": "2022-08-04"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 1.247,
+        "Date": "2022-01-13"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 1.472,
+        "Date": "2022-10-26"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.5844,
+        "Date": "2022-12-01"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.8702,
+        "Date": "2022-03-11"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.366,
+        "Date": "2022-12-10"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.7876,
+        "Date": "2022-06-21"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": -0.4628,
+        "Date": "2022-01-21"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": -0.3849,
+        "Date": "2022-03-24"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.8521,
+        "Date": "2022-07-28"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.9203,
+        "Date": "2022-11-09"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.3309,
+        "Date": "2022-01-03"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.9438,
+        "Date": "2022-09-10"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 1.4545,
+        "Date": "2022-11-27"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 1.2257,
+        "Date": "2022-09-01"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": -0.2271,
+        "Date": "2022-09-11"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.2112,
+        "Date": "2022-05-15"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.4509,
+        "Date": "2022-06-19"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": null,
+        "Date": "2022-12-13"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.1209,
+        "Date": "2022-09-05"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.4251,
+        "Date": "2022-12-21"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.3714,
+        "Date": "2022-11-21"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.708,
+        "Date": "2022-10-17"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 1.3782,
+        "Date": "2022-03-20"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 1.2399,
+        "Date": "2022-08-05"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": -0.3759,
+        "Date": "2022-01-28"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.1217,
+        "Date": "2022-12-22"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.0016,
+        "Date": "2022-04-20"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.1198,
+        "Date": "2022-02-06"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": -0.1874,
+        "Date": "2022-03-27"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.4907,
+        "Date": "2022-04-02"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.9873,
+        "Date": "2022-09-09"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.9356,
+        "Date": "2022-03-11"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.3929,
+        "Date": "2022-06-11"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.3285,
+        "Date": "2022-12-07"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.9238,
+        "Date": "2022-02-01"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": -0.3891,
+        "Date": "2022-05-23"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 1.4109,
+        "Date": "2022-05-17"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.5005,
+        "Date": "2022-11-25"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.8977,
+        "Date": "2022-03-06"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.0918,
+        "Date": "2022-05-23"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 1.2861,
+        "Date": "2022-04-08"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.5878,
+        "Date": "2022-09-23"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 1.3185,
+        "Date": "2022-03-08"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.2036,
+        "Date": "2022-09-13"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": -0.285,
+        "Date": "2022-11-03"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 1.3688,
+        "Date": "2022-06-09"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.6323,
+        "Date": "2022-12-24"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 1.4062,
+        "Date": "2022-06-25"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 1.4232,
+        "Date": "2022-06-14"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.4489,
+        "Date": "2022-12-14"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.2257,
+        "Date": "2022-08-06"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": null,
+        "Date": ""
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 1.033,
+        "Date": "2022-10-13"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.656,
+        "Date": "2022-01-16"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.7498,
+        "Date": "2022-09-30"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 1.0258,
+        "Date": "2022-12-09"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 1.2392,
+        "Date": "2022-08-27"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.7692,
+        "Date": "2022-05-29"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 1.1925,
+        "Date": "2023-01-01"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.8633,
+        "Date": "2022-08-24"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.6375,
+        "Date": "2022-02-09"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 1.1335,
+        "Date": "2022-06-03"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": null,
+        "Date": "2022-07-11"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.2066,
+        "Date": "2022-04-16"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 1.1569,
+        "Date": "2022-07-02"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 1.2636,
+        "Date": "2022-10-16"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.9485,
+        "Date": "2022-08-03"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": -0.1309,
+        "Date": "2022-09-29"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.7688,
+        "Date": "2022-01-03"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.8673,
+        "Date": "2022-10-26"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.2365,
+        "Date": "2022-06-15"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.9607,
+        "Date": "2022-08-29"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.1647,
+        "Date": "2022-07-26"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 1.2023,
+        "Date": "2022-09-23"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 1.1111,
+        "Date": "2022-03-24"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": -0.4765,
+        "Date": "2022-03-24"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.2551,
+        "Date": "2022-05-10"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.7149,
+        "Date": "2022-08-07"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 1.089,
+        "Date": "2022-05-22"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.6769,
+        "Date": ""
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.3273,
+        "Date": "2022-10-10"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.8458,
+        "Date": "2022-01-08"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": -0.474,
+        "Date": "2022-08-31"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.5259,
+        "Date": "2022-10-04"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.5851,
+        "Date": "2022-06-11"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": -0.3646,
+        "Date": "2022-12-28"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.4114,
+        "Date": "2022-01-22"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 1.3433,
+        "Date": "2022-08-17"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 1.0005,
+        "Date": "2022-10-19"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": -0.2262,
+        "Date": "2022-01-30"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.8499,
+        "Date": "2022-10-05"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": -0.4358,
+        "Date": "2022-10-13"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.4579,
+        "Date": "2022-03-17"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": -0.1064,
+        "Date": "2022-02-24"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.3628,
+        "Date": "2022-08-25"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.0287,
+        "Date": "2022-02-14"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.4764,
+        "Date": "2022-02-06"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": -0.4038,
+        "Date": "2022-06-21"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.9626,
+        "Date": "2022-11-09"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": -0.07,
+        "Date": ""
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.0544,
+        "Date": "2022-08-20"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.7204,
+        "Date": "2022-05-31"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 1.4025,
+        "Date": "2022-02-21"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.6934,
+        "Date": "2022-11-21"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.7423,
+        "Date": "2022-07-09"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.1455,
+        "Date": "2022-11-19"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.95,
+        "Date": "2022-04-14"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": -0.1609,
+        "Date": "2022-11-08"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.5443,
+        "Date": "2022-09-27"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 1.3203,
+        "Date": "2022-08-02"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 1.4118,
+        "Date": "2022-10-21"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.4519,
+        "Date": "2022-10-11"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 1.0269,
+        "Date": "2022-08-27"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.2839,
+        "Date": ""
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": -0.032,
+        "Date": "2022-03-19"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 1.3432,
+        "Date": "2022-10-22"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.6288,
+        "Date": "2022-10-25"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": -0.258,
+        "Date": "2022-12-25"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": null,
+        "Date": "2022-09-23"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 1.3368,
+        "Date": "2022-05-30"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.4265,
+        "Date": "2022-06-23"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 1.4588,
+        "Date": "2022-04-21"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": -0.3705,
+        "Date": "2022-02-10"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.0862,
+        "Date": "2022-05-16"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.0302,
+        "Date": "2022-04-02"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.1109,
+        "Date": "2022-05-09"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.4089,
+        "Date": "2022-06-30"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.395,
+        "Date": "2022-06-14"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.7664,
+        "Date": "2022-05-25"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": -0.2217,
+        "Date": "2022-09-14"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.9787,
+        "Date": "2022-05-07"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 1.1225,
+        "Date": "2022-03-02"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.9093,
+        "Date": "2022-08-24"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 1.0731,
+        "Date": "2022-03-28"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.8314,
+        "Date": "2022-07-04"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": -0.1295,
+        "Date": "2022-07-24"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.4544,
+        "Date": "2022-11-19"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.1355,
+        "Date": "2022-12-09"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 1.2006,
+        "Date": "2022-03-22"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.0982,
+        "Date": "2022-12-26"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.6597,
+        "Date": "2022-06-10"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.156,
+        "Date": "2022-12-21"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.7107,
+        "Date": "2022-03-10"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.8593,
+        "Date": "2022-08-02"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 1.0825,
+        "Date": "2022-04-13"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.6537,
+        "Date": "2022-08-26"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": -0.4262,
+        "Date": "2022-08-05"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": -0.3951,
+        "Date": "2022-01-11"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 1.2082,
+        "Date": "2022-01-30"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.0618,
+        "Date": "2022-11-04"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.1636,
+        "Date": "2022-08-27"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.15,
+        "Date": "2022-08-08"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.748,
+        "Date": "2022-11-10"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 1.0374,
+        "Date": "2022-06-14"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.897,
+        "Date": "2022-11-23"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": null,
+        "Date": "2022-02-15"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.9627,
+        "Date": "2022-04-04"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.8792,
+        "Date": "2022-02-07"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.2948,
+        "Date": "2022-08-04"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.2808,
+        "Date": "2022-03-23"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": -0.0564,
+        "Date": "2022-01-23"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.7875,
+        "Date": "2022-01-15"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 1.2328,
+        "Date": "2022-09-18"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": null,
+        "Date": "2022-03-19"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.142,
+        "Date": "2022-08-23"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 1.0964,
+        "Date": "2022-10-20"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.6875,
+        "Date": "2022-04-19"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": -0.4344,
+        "Date": "2022-08-11"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.5603,
+        "Date": "2022-11-07"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": -0.2689,
+        "Date": "2022-12-16"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 1.2813,
+        "Date": "2022-01-02"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.5275,
+        "Date": "2022-05-04"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.8772,
+        "Date": "2022-02-11"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": null,
+        "Date": "2022-08-21"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 1.3405,
+        "Date": "2022-01-28"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.9386,
+        "Date": "2022-03-05"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.1422,
+        "Date": "2022-01-13"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": -0.4759,
+        "Date": "2022-09-22"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.3182,
+        "Date": "2022-02-14"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 1.2567,
+        "Date": "2022-03-24"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.6239,
+        "Date": "2022-04-14"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.0072,
+        "Date": "2022-07-25"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.8744,
+        "Date": ""
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 1.2628,
+        "Date": "2022-04-13"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 1.2379,
+        "Date": "2022-06-07"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": -0.0073,
+        "Date": "2022-10-26"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": -0.0823,
+        "Date": "2022-04-18"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.2058,
+        "Date": "2022-11-03"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 1.0085,
+        "Date": "2022-10-19"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.8032,
+        "Date": "2022-06-19"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.8268,
+        "Date": "2022-10-22"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.4714,
+        "Date": "2022-12-06"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 1.4323,
+        "Date": "2022-10-18"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 1.425,
+        "Date": "2022-02-16"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.8338,
+        "Date": "2022-04-18"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": null,
+        "Date": "2022-11-25"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": -0.1594,
+        "Date": "2022-03-28"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": -0.0185,
+        "Date": "2022-01-03"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.7073,
+        "Date": "2022-11-28"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.8588,
+        "Date": "2022-08-16"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 1.0934,
+        "Date": "2022-03-02"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.0279,
+        "Date": "2022-03-09"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 1.1256,
+        "Date": "2022-07-16"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": -0.2532,
+        "Date": "2022-07-01"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.3966,
+        "Date": "2022-06-16"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": -0.1426,
+        "Date": "2022-02-02"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": -0.0365,
+        "Date": "2022-09-04"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 1.4734,
+        "Date": "2022-06-04"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.7971,
+        "Date": ""
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 1.1477,
+        "Date": "2022-12-28"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": -0.3139,
+        "Date": "2022-10-26"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 1.2224,
+        "Date": "2022-10-09"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": -0.2382,
+        "Date": "2022-09-05"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.4373,
+        "Date": "2022-04-24"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.8579,
+        "Date": "2022-10-14"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": -0.3521,
+        "Date": "2022-06-02"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.4065,
+        "Date": "2022-08-02"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": -0.4418,
+        "Date": "2022-04-01"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": null,
+        "Date": "2022-06-09"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 1.2641,
+        "Date": "2022-06-20"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.3176,
+        "Date": "2022-11-17"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.0595,
+        "Date": "2022-11-05"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.8805,
+        "Date": "2022-09-06"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": -0.2356,
+        "Date": "2022-09-28"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.388,
+        "Date": "2022-03-10"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.6291,
+        "Date": "2022-10-11"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.6139,
+        "Date": "2022-10-03"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": -0.4275,
+        "Date": "2022-04-16"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.3122,
+        "Date": "2022-08-12"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 1.1561,
+        "Date": "2022-07-11"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.7046,
+        "Date": "2022-03-20"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.6746,
+        "Date": "2022-07-04"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": -0.3734,
+        "Date": "2022-06-24"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.1075,
+        "Date": "2022-03-16"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": null,
+        "Date": "2022-10-28"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.3977,
+        "Date": "2022-03-28"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.4993,
+        "Date": ""
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": null,
+        "Date": "2022-07-28"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.1205,
+        "Date": "2022-12-16"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": -0.2158,
+        "Date": "2022-03-05"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.9357,
+        "Date": "2022-03-30"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.1916,
+        "Date": "2022-05-14"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.861,
+        "Date": "2022-06-02"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.1921,
+        "Date": "2022-04-12"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.1202,
+        "Date": "2022-12-23"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 1.26,
+        "Date": "2022-02-13"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 1.2818,
+        "Date": "2022-02-24"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.123,
+        "Date": "2022-11-15"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": -0.3908,
+        "Date": "2022-05-09"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.2582,
+        "Date": "2022-01-10"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 1.0819,
+        "Date": "2022-05-24"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.2668,
+        "Date": "2022-08-05"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 1.0422,
+        "Date": "2022-01-02"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": -0.4912,
+        "Date": "2022-09-14"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": -0.0023,
+        "Date": "2022-09-29"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.09,
+        "Date": "2022-09-16"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 1.1994,
+        "Date": "2022-12-27"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 1.1296,
+        "Date": "2022-04-03"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": -0.3967,
+        "Date": "2022-08-03"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.3098,
+        "Date": "2022-09-19"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.7044,
+        "Date": "2022-07-21"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 1.1808,
+        "Date": "2022-09-20"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": null,
+        "Date": "2022-11-14"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": null,
+        "Date": "2022-10-05"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.2237,
+        "Date": "2022-01-21"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.6304,
+        "Date": "2022-02-19"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.9947,
+        "Date": "2022-03-12"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": -0.2703,
+        "Date": "2022-10-15"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": -0.1628,
+        "Date": "2022-08-08"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": -0.2693,
+        "Date": "2022-04-01"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.4967,
+        "Date": "2022-01-30"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 1.1556,
+        "Date": "2022-02-07"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.999,
+        "Date": "2022-11-29"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.3185,
+        "Date": "2022-01-17"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": null,
+        "Date": "2022-01-23"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.2884,
+        "Date": "2022-03-17"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.2279,
+        "Date": "2022-07-08"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": -0.291,
+        "Date": "2022-06-22"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.7888,
+        "Date": "2022-05-06"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": -0.0227,
+        "Date": "2022-06-21"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 1.2826,
+        "Date": "2022-06-28"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.6562,
+        "Date": "2022-12-29"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": -0.041,
+        "Date": "2022-09-09"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.3907,
+        "Date": "2022-02-05"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.144,
+        "Date": "2022-10-30"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.0959,
+        "Date": "2022-02-11"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": -0.403,
+        "Date": "2022-11-21"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": -0.2526,
+        "Date": "2022-10-27"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.0549,
+        "Date": "2022-11-22"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.412,
+        "Date": "2022-07-21"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.0845,
+        "Date": "2022-04-15"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.0562,
+        "Date": "2022-07-16"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.6982,
+        "Date": "2022-12-14"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.9793,
+        "Date": "2022-03-05"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 1.3998,
+        "Date": "2022-02-09"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.2572,
+        "Date": "2022-07-11"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": -0.156,
+        "Date": "2022-11-03"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": -0.0704,
+        "Date": "2022-02-28"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 1.4272,
+        "Date": "2022-12-14"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.0215,
+        "Date": "2022-02-05"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": -0.0599,
+        "Date": "2022-01-23"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": -0.2446,
+        "Date": "2022-09-01"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.9902,
+        "Date": "2022-04-10"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.02,
+        "Date": "2022-04-30"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.7049,
+        "Date": "2022-10-18"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.7337,
+        "Date": "2022-08-16"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 1.31,
+        "Date": "2022-02-14"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.2042,
+        "Date": "2022-09-25"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.5817,
+        "Date": "2022-02-14"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.2056,
+        "Date": "2022-05-25"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.4292,
+        "Date": "2022-01-14"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 1.2265,
+        "Date": "2022-04-13"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.6109,
+        "Date": "2022-10-08"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.221,
+        "Date": "2022-08-21"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": null,
+        "Date": "2022-12-01"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.1584,
+        "Date": "2022-07-27"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 1.3129,
+        "Date": "2022-07-01"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.8726,
+        "Date": "2022-06-21"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.6266,
+        "Date": "2022-10-13"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 1.3695,
+        "Date": "2022-07-27"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.0359,
+        "Date": "2022-02-13"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": -0.3261,
+        "Date": "2022-03-31"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.2678,
+        "Date": "2022-12-09"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.0413,
+        "Date": "2022-11-11"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 1.2141,
+        "Date": "2022-05-06"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.4268,
+        "Date": "2022-01-30"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.6888,
+        "Date": "2022-09-16"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": -0.4609,
+        "Date": "2022-08-06"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.3498,
+        "Date": "2022-03-15"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 1.0888,
+        "Date": "2022-02-09"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 1.1745,
+        "Date": "2022-11-01"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": -0.2891,
+        "Date": "2022-07-05"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": -0.1562,
+        "Date": "2022-04-03"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.9479,
+        "Date": "2022-06-28"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.0094,
+        "Date": "2022-03-22"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": -0.2436,
+        "Date": "2022-03-10"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.2581,
+        "Date": "2022-10-01"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.2514,
+        "Date": "2022-10-19"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.2933,
+        "Date": "2022-01-08"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": null,
+        "Date": "2022-04-14"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 1.3096,
+        "Date": "2022-05-27"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 1.022,
+        "Date": "2022-08-11"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.8232,
+        "Date": "2022-11-19"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.9591,
+        "Date": "2022-12-03"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.3018,
+        "Date": "2022-02-21"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 1.1558,
+        "Date": "2022-09-22"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 1.1705,
+        "Date": "2022-10-14"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 1.0036,
+        "Date": "2022-08-13"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 1.293,
+        "Date": "2022-09-27"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.9105,
+        "Date": "2022-04-15"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.5612,
+        "Date": "2022-05-22"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": -0.2749,
+        "Date": "2022-05-28"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": null,
+        "Date": "2022-03-26"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.1761,
+        "Date": "2022-07-29"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": null,
+        "Date": "2022-11-24"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 1.2554,
+        "Date": "2022-05-17"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": -0.065,
+        "Date": ""
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": null,
+        "Date": "2022-05-22"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": -0.4798,
+        "Date": "2022-11-20"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.1728,
+        "Date": "2022-05-16"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.3165,
+        "Date": "2022-03-23"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.1348,
+        "Date": "2022-05-28"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.0001,
+        "Date": "2022-12-31"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.4195,
+        "Date": "2022-09-02"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 1.3155,
+        "Date": "2022-06-16"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.5417,
+        "Date": "2022-03-06"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 1.216,
+        "Date": "2022-03-25"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": null,
+        "Date": "2022-04-13"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.2755,
+        "Date": "2022-05-30"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.8996,
+        "Date": "2022-08-14"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": -0.4238,
+        "Date": "2022-11-10"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.2497,
+        "Date": "2022-10-02"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.2691,
+        "Date": "2022-04-06"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": null,
+        "Date": "2022-06-17"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": -0.3018,
+        "Date": "2022-10-04"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.2822,
+        "Date": "2022-10-11"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": -0.1834,
+        "Date": "2022-11-07"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 1.1911,
+        "Date": "2022-12-03"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.4163,
+        "Date": "2022-04-07"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.296,
+        "Date": "2022-09-20"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 1.1441,
+        "Date": "2022-02-05"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.1046,
+        "Date": "2022-02-19"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.5975,
+        "Date": "2022-04-05"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.1494,
+        "Date": "2022-02-19"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 1.248,
+        "Date": "2022-12-01"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": -0.2111,
+        "Date": "2022-02-22"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 1.3785,
+        "Date": "2022-02-17"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": -0.3025,
+        "Date": "2022-02-15"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.5629,
+        "Date": "2022-01-06"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": -0.2462,
+        "Date": "2022-07-06"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.8055,
+        "Date": "2022-01-29"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.6844,
+        "Date": "2022-09-12"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.7812,
+        "Date": "2022-05-31"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 1.0874,
+        "Date": "2022-10-01"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 1.4299,
+        "Date": "2022-08-15"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": -0.1555,
+        "Date": "2022-12-07"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 1.0121,
+        "Date": "2022-03-10"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.1109,
+        "Date": "2022-02-20"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.8262,
+        "Date": "2022-12-15"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.3449,
+        "Date": "2022-04-04"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": -0.3736,
+        "Date": "2022-01-19"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.3708,
+        "Date": "2022-12-02"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.2723,
+        "Date": "2022-06-19"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.3531,
+        "Date": "2022-12-05"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.5376,
+        "Date": "2022-11-15"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 1.1422,
+        "Date": "2022-06-04"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.751,
+        "Date": "2022-12-27"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.672,
+        "Date": "2022-03-19"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": -0.0233,
+        "Date": "2022-07-23"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": -0.3304,
+        "Date": "2022-11-22"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.116,
+        "Date": "2022-12-02"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": null,
+        "Date": "2022-07-06"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 1.0954,
+        "Date": "2022-11-30"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 1.3436,
+        "Date": "2022-03-12"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.1088,
+        "Date": "2022-09-09"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.5078,
+        "Date": "2022-10-30"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 1.2911,
+        "Date": "2022-10-03"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 1.3479,
+        "Date": "2022-01-05"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": -0.4298,
+        "Date": "2022-04-21"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 1.4302,
+        "Date": "2022-03-30"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 1.219,
+        "Date": "2022-06-04"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.2326,
+        "Date": "2022-04-13"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 1.4183,
+        "Date": "2022-03-05"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.305,
+        "Date": "2022-08-29"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.5164,
+        "Date": "2022-06-08"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.9816,
+        "Date": "2022-03-25"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.4973,
+        "Date": "2022-10-11"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.7967,
+        "Date": "2022-05-26"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.4219,
+        "Date": "2022-10-01"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.4828,
+        "Date": "2022-04-07"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 1.2354,
+        "Date": "2022-10-28"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 1.4562,
+        "Date": "2022-07-01"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": -0.1801,
+        "Date": "2022-05-29"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.8296,
+        "Date": "2022-04-29"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 1.3747,
+        "Date": "2022-08-18"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.7023,
+        "Date": "2022-06-11"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.5508,
+        "Date": "2022-07-05"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.1226,
+        "Date": "2022-06-16"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.6252,
+        "Date": "2022-09-28"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": null,
+        "Date": "2022-01-18"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.8877,
+        "Date": ""
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": -0.2396,
+        "Date": "2022-11-02"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.1871,
+        "Date": "2022-05-11"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 1.2178,
+        "Date": "2022-03-06"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": -0.2759,
+        "Date": "2022-02-20"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.1314,
+        "Date": "2022-09-26"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.1959,
+        "Date": "2022-10-26"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": -0.3132,
+        "Date": "2022-09-23"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": -0.1505,
+        "Date": "2022-05-04"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.8672,
+        "Date": "2022-04-05"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.0767,
+        "Date": "2022-06-01"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 1.3085,
+        "Date": "2022-01-09"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.0482,
+        "Date": "2022-11-17"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.0144,
+        "Date": "2022-12-26"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.5776,
+        "Date": "2022-12-06"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.5959,
+        "Date": "2022-05-21"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.6855,
+        "Date": "2022-03-09"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.7965,
+        "Date": "2022-06-18"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.8019,
+        "Date": "2022-02-16"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 1.2792,
+        "Date": "2022-03-02"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.7315,
+        "Date": "2022-08-21"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.4686,
+        "Date": "2022-01-15"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": null,
+        "Date": "2022-12-07"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 1.4043,
+        "Date": "2022-10-18"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.467,
+        "Date": "2022-06-16"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.0425,
+        "Date": "2022-07-09"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.4026,
+        "Date": "2022-07-25"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 1.4506,
+        "Date": "2022-06-21"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 1.2727,
+        "Date": "2022-10-18"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.3868,
+        "Date": "2022-08-05"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 1.2407,
+        "Date": "2022-06-07"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.737,
+        "Date": "2022-11-10"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 1.4606,
+        "Date": "2022-06-05"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.2832,
+        "Date": "2022-07-25"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.3153,
+        "Date": "2022-01-08"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 1.2659,
+        "Date": "2022-03-13"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": -0.4983,
+        "Date": "2022-01-21"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": -0.0117,
+        "Date": "2022-04-26"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.12,
+        "Date": "2022-06-14"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": -0.1288,
+        "Date": "2022-03-06"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 1.4519,
+        "Date": "2022-10-02"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.2313,
+        "Date": "2022-12-27"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 1.4673,
+        "Date": "2022-06-04"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.4231,
+        "Date": "2022-05-12"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.4571,
+        "Date": "2022-12-06"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.7732,
+        "Date": "2022-10-26"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.5734,
+        "Date": "2022-04-21"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 1.1297,
+        "Date": "2022-07-28"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": -0.3991,
+        "Date": "2022-05-22"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.5834,
+        "Date": "2022-02-08"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.334,
+        "Date": "2022-11-23"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 1.3013,
+        "Date": "2022-03-15"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": -0.4772,
+        "Date": "2022-12-09"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.2282,
+        "Date": "2022-03-04"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 1.4063,
+        "Date": "2022-02-12"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.742,
+        "Date": "2022-11-10"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 1.418,
+        "Date": "2022-05-19"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": -0.255,
+        "Date": "2022-10-07"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": -0.2339,
+        "Date": "2022-06-16"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.1134,
+        "Date": "2022-08-05"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 1.1918,
+        "Date": "2022-01-16"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.5734,
+        "Date": "2022-11-17"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": null,
+        "Date": "2022-08-27"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.5377,
+        "Date": "2022-06-28"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.0961,
+        "Date": "2022-07-16"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": -0.3196,
+        "Date": "2022-07-08"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": -0.1452,
+        "Date": "2022-09-13"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": -0.4392,
+        "Date": ""
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.0813,
+        "Date": "2022-06-05"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 1.2103,
+        "Date": "2022-05-22"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": -0.2715,
+        "Date": ""
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 1.1644,
+        "Date": "2022-01-07"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.5408,
+        "Date": "2022-07-06"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.5163,
+        "Date": "2022-05-28"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 1.2002,
+        "Date": "2022-01-13"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.2059,
+        "Date": "2022-10-07"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.7132,
+        "Date": "2022-05-09"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": -0.2091,
+        "Date": "2022-09-16"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.6687,
+        "Date": "2022-03-22"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": -0.4809,
+        "Date": ""
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": -0.3487,
+        "Date": "2022-01-27"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.1385,
+        "Date": "2022-06-06"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": null,
+        "Date": "2022-02-22"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": -0.1362,
+        "Date": "2022-05-15"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 1.3149,
+        "Date": "2022-06-19"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.3097,
+        "Date": "2022-07-22"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": -0.025,
+        "Date": "2022-02-19"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": -0.1744,
+        "Date": "2022-06-12"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.5586,
+        "Date": "2022-07-06"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.6579,
+        "Date": "2022-05-18"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 1.3049,
+        "Date": "2022-06-26"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": -0.4531,
+        "Date": "2022-03-03"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": -0.179,
+        "Date": "2022-02-12"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 1.2881,
+        "Date": "2022-12-29"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.1379,
+        "Date": "2022-06-16"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.1781,
+        "Date": "2022-06-14"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 1.4977,
+        "Date": "2022-12-16"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.3822,
+        "Date": "2022-05-03"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 1.0609,
+        "Date": "2022-12-30"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": null,
+        "Date": "2022-03-04"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.5787,
+        "Date": "2022-06-29"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": -0.1867,
+        "Date": "2022-06-15"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.4574,
+        "Date": "2022-04-19"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.2794,
+        "Date": "2022-09-17"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.2803,
+        "Date": "2022-06-13"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.0156,
+        "Date": "2022-02-26"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 1.1526,
+        "Date": "2022-07-17"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 1.3211,
+        "Date": "2022-09-30"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 1.2095,
+        "Date": "2022-12-29"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": null,
+        "Date": "2022-03-13"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.1376,
+        "Date": "2022-01-12"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.0019,
+        "Date": "2022-10-17"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 1.3347,
+        "Date": "2022-09-29"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 1.2976,
+        "Date": "2022-12-23"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": -0.0626,
+        "Date": "2022-05-28"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.3456,
+        "Date": "2022-08-27"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.1864,
+        "Date": "2022-11-26"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": -0.0921,
+        "Date": "2022-11-03"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 1.388,
+        "Date": "2022-07-18"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.3243,
+        "Date": "2022-04-22"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": -0.0495,
+        "Date": "2022-08-09"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.6312,
+        "Date": "2022-09-13"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": null,
+        "Date": "2022-05-14"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 1.1293,
+        "Date": "2022-12-27"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.7851,
+        "Date": "2022-09-06"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.5969,
+        "Date": "2022-06-01"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 1.4561,
+        "Date": "2022-01-31"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.675,
+        "Date": "2022-05-19"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.9297,
+        "Date": "2022-03-05"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.1755,
+        "Date": "2022-01-18"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.9873,
+        "Date": ""
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.6789,
+        "Date": "2022-06-05"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.1483,
+        "Date": "2022-07-30"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.0934,
+        "Date": "2022-03-08"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 1.0702,
+        "Date": "2022-08-11"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.3167,
+        "Date": "2022-07-18"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": -0.1144,
+        "Date": "2022-10-29"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.2344,
+        "Date": "2022-01-29"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": -0.1744,
+        "Date": "2022-11-30"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.0689,
+        "Date": "2022-01-28"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 1.3773,
+        "Date": "2022-08-13"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.3882,
+        "Date": "2022-07-11"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.7007,
+        "Date": "2022-07-12"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.0073,
+        "Date": "2022-02-14"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": -0.214,
+        "Date": "2022-01-10"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.5005,
+        "Date": "2022-07-17"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 1.0133,
+        "Date": "2022-05-20"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.1519,
+        "Date": "2022-06-10"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.996,
+        "Date": "2022-12-02"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.1291,
+        "Date": "2022-06-15"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 1.3228,
+        "Date": "2022-11-09"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": null,
+        "Date": "2022-07-23"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": -0.0391,
+        "Date": "2022-08-18"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 1.222,
+        "Date": ""
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 1.466,
+        "Date": "2022-09-10"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": -0.0926,
+        "Date": "2022-10-16"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": -0.4581,
+        "Date": "2022-06-30"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.6651,
+        "Date": "2022-11-08"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.4094,
+        "Date": "2022-11-21"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 1.0195,
+        "Date": "2022-10-03"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.2977,
+        "Date": "2022-08-18"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": -0.0714,
+        "Date": "2022-02-01"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.3402,
+        "Date": "2022-03-21"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": -0.3397,
+        "Date": "2022-02-24"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 1.0849,
+        "Date": "2022-11-23"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": -0.4698,
+        "Date": "2022-04-26"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.2133,
+        "Date": "2022-02-28"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 1.1559,
+        "Date": "2022-07-23"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.9946,
+        "Date": "2022-07-10"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.0655,
+        "Date": "2022-08-25"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.868,
+        "Date": "2022-04-05"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.3391,
+        "Date": "2022-05-19"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.9108,
+        "Date": "2022-04-06"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.6366,
+        "Date": "2022-05-18"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.3456,
+        "Date": "2022-01-26"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": -0.2304,
+        "Date": "2022-06-06"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.2969,
+        "Date": "2022-12-26"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.1619,
+        "Date": "2022-01-29"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.2904,
+        "Date": "2022-06-10"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 1.1713,
+        "Date": "2022-03-17"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.241,
+        "Date": "2022-01-25"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": null,
+        "Date": "2022-08-07"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.8446,
+        "Date": "2022-08-05"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": -0.2715,
+        "Date": "2022-12-05"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 1.4289,
+        "Date": "2022-02-13"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.2228,
+        "Date": "2022-04-16"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 1.4797,
+        "Date": "2022-02-02"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.4054,
+        "Date": "2022-09-14"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.2549,
+        "Date": "2022-04-18"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.1487,
+        "Date": "2022-06-25"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 1.4748,
+        "Date": "2022-07-11"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": -0.1547,
+        "Date": "2022-05-18"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": -0.2147,
+        "Date": "2022-08-12"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 1.3831,
+        "Date": "2022-10-28"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.7591,
+        "Date": "2022-03-01"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 1.0284,
+        "Date": "2022-11-21"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.6565,
+        "Date": "2022-12-07"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 1.2277,
+        "Date": "2022-04-21"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.2095,
+        "Date": "2022-06-13"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 1.374,
+        "Date": "2022-04-02"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.7878,
+        "Date": "2022-03-01"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.7925,
+        "Date": "2022-04-16"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.9502,
+        "Date": "2022-03-20"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.0219,
+        "Date": "2022-05-18"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": -0.2519,
+        "Date": "2022-10-16"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 1.4267,
+        "Date": "2022-10-24"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.0502,
+        "Date": "2022-03-10"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 1.2312,
+        "Date": ""
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.4296,
+        "Date": "2022-05-14"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.536,
+        "Date": "2022-09-16"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.1865,
+        "Date": "2022-04-10"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 1.1979,
+        "Date": "2022-07-16"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.1696,
+        "Date": "2022-11-29"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.4271,
+        "Date": ""
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 1.3029,
+        "Date": "2022-03-17"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 1.0494,
+        "Date": "2022-03-10"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.7567,
+        "Date": "2022-09-08"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.9511,
+        "Date": "2022-10-11"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": null,
+        "Date": "2022-06-06"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 1.2307,
+        "Date": "2022-01-05"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": -0.3057,
+        "Date": "2022-11-20"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.8048,
+        "Date": "2022-03-30"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.3424,
+        "Date": "2022-11-25"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.7673,
+        "Date": "2022-02-13"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.6852,
+        "Date": "2022-09-02"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": -0.1589,
+        "Date": "2022-10-20"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 1.0561,
+        "Date": "2022-10-11"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.2701,
+        "Date": "2022-10-15"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 1.0119,
+        "Date": "2022-07-13"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 1.3411,
+        "Date": "2022-05-21"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.4366,
+        "Date": "2022-05-28"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": -0.3668,
+        "Date": "2022-07-31"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": -0.0386,
+        "Date": "2022-11-30"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 1.0248,
+        "Date": "2022-01-03"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.3717,
+        "Date": "2022-02-14"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.1249,
+        "Date": "2022-02-18"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.5351,
+        "Date": "2022-08-17"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.7654,
+        "Date": "2022-05-13"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.9049,
+        "Date": "2022-05-21"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.3113,
+        "Date": "2022-12-12"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 1.2525,
+        "Date": ""
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": -0.3623,
+        "Date": "2022-09-15"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": -0.1302,
+        "Date": "2022-04-20"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 1.1485,
+        "Date": "2022-12-09"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.6228,
+        "Date": "2022-02-09"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 1.0155,
+        "Date": "2022-09-02"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.3864,
+        "Date": "2022-09-25"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.1956,
+        "Date": "2022-03-24"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.0371,
+        "Date": "2022-01-15"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.0295,
+        "Date": "2022-02-23"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.9545,
+        "Date": "2022-04-25"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 1.0959,
+        "Date": "2022-12-16"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.9122,
+        "Date": "2022-05-14"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": -0.4067,
+        "Date": "2022-06-13"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.9647,
+        "Date": "2022-11-26"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 1.1664,
+        "Date": "2022-01-26"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 1.4392,
+        "Date": "2022-05-01"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 1.1448,
+        "Date": "2022-01-20"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.8209,
+        "Date": ""
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.9234,
+        "Date": "2022-08-21"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 1.0216,
+        "Date": "2022-04-04"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.907,
+        "Date": "2022-06-05"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": null,
+        "Date": "2022-09-03"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": -0.4734,
+        "Date": "2022-06-23"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": null,
+        "Date": "2022-02-28"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 1.1748,
+        "Date": "2022-03-09"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 1.1295,
+        "Date": ""
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 1.3205,
+        "Date": "2022-11-18"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 1.0885,
+        "Date": "2022-08-21"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.4394,
+        "Date": "2022-12-20"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.6221,
+        "Date": "2022-12-07"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 1.066,
+        "Date": "2022-08-24"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.6425,
+        "Date": "2022-06-21"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.3141,
+        "Date": "2022-07-23"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.2759,
+        "Date": "2022-06-09"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.2958,
+        "Date": "2022-06-12"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 1.2876,
+        "Date": "2022-07-05"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 1.2635,
+        "Date": "2022-10-29"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": -0.0504,
+        "Date": "2022-01-16"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 1.4601,
+        "Date": "2022-12-10"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.6798,
+        "Date": "2022-08-27"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.1115,
+        "Date": "2022-05-23"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.5757,
+        "Date": "2022-06-12"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 1.172,
+        "Date": "2022-02-17"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.3839,
+        "Date": "2022-10-30"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.3419,
+        "Date": "2022-05-18"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": null,
+        "Date": "2022-02-08"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.6336,
+        "Date": "2022-01-16"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.0697,
+        "Date": "2022-05-31"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": -0.4065,
+        "Date": "2022-07-02"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": -0.4408,
+        "Date": "2022-01-29"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 1.2221,
+        "Date": "2022-10-13"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": -0.3619,
+        "Date": "2022-12-15"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 1.1515,
+        "Date": "2022-11-20"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.9644,
+        "Date": "2022-04-26"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 1.1687,
+        "Date": "2022-08-04"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 1.3233,
+        "Date": "2022-10-25"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.3862,
+        "Date": "2022-09-29"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.7337,
+        "Date": "2022-08-02"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.4954,
+        "Date": "2022-12-08"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": null,
+        "Date": "2022-12-17"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.2783,
+        "Date": "2022-08-17"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.598,
+        "Date": "2022-12-16"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.5343,
+        "Date": "2022-04-20"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": -0.0584,
+        "Date": "2022-07-26"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 1.3197,
+        "Date": "2022-02-15"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.8117,
+        "Date": "2022-05-14"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.4374,
+        "Date": "2022-01-24"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.2989,
+        "Date": "2022-07-16"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 1.4263,
+        "Date": "2022-12-27"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.9497,
+        "Date": "2022-06-01"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.4833,
+        "Date": "2022-01-26"
+    },
+    {
+        "Currency_Code": "JPY",
+        "Exchange_Rate": 0.9622,
+        "Date": "2022-05-16"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 1.3723,
+        "Date": "2022-09-29"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 1.4341,
+        "Date": "2022-07-28"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.0415,
+        "Date": "2022-04-13"
+    },
+    {
+        "Currency_Code": "AUD",
+        "Exchange_Rate": 0.5001,
+        "Date": "2022-05-25"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.6431,
+        "Date": "2022-04-24"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.7986,
+        "Date": "2022-07-07"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": -0.217,
+        "Date": "2022-01-14"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": -0.2542,
+        "Date": "2022-01-11"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.2655,
+        "Date": "2022-04-04"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.1003,
+        "Date": "2022-03-10"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": 0.5699,
+        "Date": "2022-05-26"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": -0.2922,
+        "Date": "2022-07-07"
+    },
+    {
+        "Currency_Code": "USD",
+        "Exchange_Rate": 0.6458,
+        "Date": "2022-11-10"
+    },
+    {
+        "Currency_Code": "GBP",
+        "Exchange_Rate": null,
+        "Date": "2022-11-15"
+    },
+    {
+        "Currency_Code": "EUR",
+        "Exchange_Rate": 0.2035,
+        "Date": ""
+    }
+]
