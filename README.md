@@ -3,6 +3,7 @@ This project involves building a data pipeline using AWS services. The pipeline 
 
 ## Project Overview
 AWS EC2 with Python : Used for Python development and building data pipelines. 
+[AWS EC2](https://ap-south-1.console.aws.amazon.com/ec2/home?region=ap-south-1#Home:)
 
 AWS RDS with PostgreSQL: For data storage, modeling, and schema management.
 
