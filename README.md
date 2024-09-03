@@ -3,8 +3,11 @@ This project involves building a data pipeline using AWS services. The pipeline 
 
 ## Project Overview
 AWS EC2 with Jupyter Notebook: Used for Python development and building data pipelines. 
+
 AWS RDS with PostgreSQL: For data storage, modeling, and schema management.
+
 AWS Lambda: To deploy functions that retrieve data from AWS RDS.
+
 AWS API Gateway: To create a RESTful API integrated with Lambda for serving data.
 
 ## Setup Instructions
@@ -21,8 +24,11 @@ pip install -r requirements.txt
 Ensure your AWS RDS PostgreSQL instance is set up and accessible. Update the database credentials in the file as follows:
 
 DB_HOST = 'your-db-host'
+
 DB_PORT = 'your-db-port'
+
 DB_USER = 'your-db-username'
+
 DB_PASSWORD = 'your-db-password'
 
 ### AWS Lambda and API Gateway
