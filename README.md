@@ -10,6 +10,8 @@ AWS Lambda: To deploy functions that retrieve data from AWS RDS.
 
 AWS API Gateway: To create a RESTful API integrated with Lambda for serving data.
 
+Sample RESTful API by using products data - https://l6mihgafjg.execute-api.ap-south-1.amazonaws.com/test_xtage/prices/products
+
 ## Setup Instructions
 ### Prerequisites
 Python 3.x
