@@ -1,6 +1,9 @@
 # AWS-Data-Pipeline---OLTP
 This project involves building a data pipeline using AWS services. The pipeline processes and standardizes data from various sources, including PostgreSQL and APIs, and serves it through a RESTful API. The project utilized several datasets: the Customers Table provided customer information including age, gender, location, and joining dates; the Products Table detailed product specifics like pricing and stock availability; the Transactions Table recorded transaction details such as total amounts and dates; the Sales Data Table captured sales figures, including quantities and prices; and the Exchange Rates Table offered exchange rates for currency conversion. Each dataset played a crucial role in building and refining the data processing pipeline, supporting analysis and integration tasks.
 
+![Architecture Diagram](https://github.com/saibharath2/AWS-Data-Pipeline---OLTP/blob/main/aws_arch.png)
+
+
 ## Project Overview
 [AWS EC2](https://ap-south-1.console.aws.amazon.com/ec2/home)
  with Python : Used for Python development and building data pipelines. 
