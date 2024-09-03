@@ -40,7 +40,7 @@ Set up AWS Lambda functions and API Gateway endpoints according to your project'
 ## Code Files Breakdown
 UTILS : data_ingestion.py and data_preprocessing.py
 
-Code Run Flow : First data_standardization file will run it ingests data from various sources and perform data modelling then run data_processing which cleans and transforms data which can be utilized by cross-teams like data scientists,backend,senior management.
+Code Run Flow : First data_standardization file will run it ingests data from various sources and perform data modelling then run data_processing which cleans and transforms data which can be utilized by cross-teams like data scientists,backend,senior management. for creating mock apis i used postman services (apikey based auth)
 
 ### [data_ingestion.py](https://github.com/saibharath2/AWS-Data-Pipeline---OLTP/blob/main/xtage_task_sub/utils/data_ingestion.py):
 
