@@ -2,7 +2,7 @@
 This project involves building a data pipeline using AWS services. The pipeline processes and standardizes data from various sources, including PostgreSQL and APIs, and serves it through a RESTful API. The pipeline is developed using AWS EC2 with python, AWS RDS with PostgreSQL, AWS Lambda, and AWS API Gateway.
 
 ## Project Overview
-AWS EC2 with Jupyter Notebook: Used for Python development and building data pipelines. 
+AWS EC2 with Python : Used for Python development and building data pipelines. 
 
 AWS RDS with PostgreSQL: For data storage, modeling, and schema management.
 
