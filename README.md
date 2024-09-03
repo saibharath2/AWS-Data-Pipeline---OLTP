@@ -2,14 +2,14 @@
 This project involves building a data pipeline using AWS services. The pipeline processes and standardizes data from various sources, including PostgreSQL and APIs, and serves it through a RESTful API. The project utilized several datasets: the Customers Table provided customer information including age, gender, location, and joining dates; the Products Table detailed product specifics like pricing and stock availability; the Transactions Table recorded transaction details such as total amounts and dates; the Sales Data Table captured sales figures, including quantities and prices; and the Exchange Rates Table offered exchange rates for currency conversion. Each dataset played a crucial role in building and refining the data processing pipeline, supporting analysis and integration tasks.
 
 ## Project Overview
-AWS EC2 with Python : Used for Python development and building data pipelines. 
-[AWS EC2](https://ap-south-1.console.aws.amazon.com/ec2/home?region=ap-south-1#Home:)
+[AWS EC2](https://ap-south-1.console.aws.amazon.com/ec2/home)
+ with Python : Used for Python development and building data pipelines. 
 
-AWS RDS with PostgreSQL: For data storage, modeling, and schema management.
+[AWS RDS](https://ap-south-1.console.aws.amazon.com/rds/home) with PostgreSQL: For data storage, modeling, and schema management.
 
-AWS Lambda: To deploy functions that retrieve data from AWS RDS.
+[AWS Lambda](https://ap-south-1.console.aws.amazon.com/lambda/home): To deploy functions that retrieve data from AWS RDS.
 
-AWS API Gateway: To create a RESTful API integrated with Lambda for serving data.
+[AWS API Gateway](https://ap-south-1.console.aws.amazon.com/apigateway/main/apis): To create a RESTful API integrated with Lambda for serving data.
 
 Sample RESTful API by using products data - https://l6mihgafjg.execute-api.ap-south-1.amazonaws.com/test_xtage/prices/products
 
@@ -38,7 +38,11 @@ DB_PASSWORD = 'your-db-password'
 Set up AWS Lambda functions and API Gateway endpoints according to your project's needs. Ensure that the Lambda function has appropriate permissions to access the RDS instance.
 
 ## Code Files Breakdown
-### data_ingestion.py:
+UTILS : data_ingestion.py and data_preprocessing.py
+
+Code Run Flow : First data_standardization file will run it ingests data from various sources and perform data modelling then run data_processing which cleans and transforms data which can be utilized by cross-teams like data scientists,backend,senior management.
+
+### [data_ingestion.py](https://github.com/saibharath2/AWS-Data-Pipeline---OLTP/blob/main/xtage_task_sub/utils/data_ingestion.py):
 
 #### Functions:
 Creates a PostgreSQL database and tables.
@@ -48,7 +52,7 @@ Fetches data from APIs and PostgreSQL queries.
 Modular design.
 Handles various data ingestion scenarios.
 
-### data_preprocessing.py:
+### [data_preprocessing.py](https://github.com/saibharath2/AWS-Data-Pipeline---OLTP/blob/main/xtage_task_sub/utils/data_preprocessing.py):
 
 #### Functions:
 Fill missing values.
@@ -59,7 +63,7 @@ Normalize numerical data.
 #### Strengths:
 Modular and reusable functions.
 
-### data_standardization.ipynb:
+### [data_standardization.ipynb](https://github.com/saibharath2/AWS-Data-Pipeline---OLTP/blob/main/xtage_task_sub/xtage_task/Data_Standardization.ipynb):
 
 #### Processes:
 Extracts zip files.
@@ -69,7 +73,7 @@ Standardizes data by handling missing values, date formats, and other preprocess
 #### Strengths:
 Comprehensive workflow from extraction to data insertion.
 
-### data_processing.ipynb:
+### [data_processing.ipynb](https://github.com/saibharath2/AWS-Data-Pipeline---OLTP/blob/main/xtage_task_sub/xtage_task/Data_Preprocessing.ipynb):
 
 #### Processes:
 Fetches data from the database.
