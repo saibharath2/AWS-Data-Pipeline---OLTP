@@ -14,7 +14,7 @@ This project involves building a data pipeline using AWS services. The pipeline 
 
 [AWS API Gateway](https://ap-south-1.console.aws.amazon.com/apigateway/main/apis): To create a RESTful API integrated with Lambda for serving data.
 
-Sample RESTful API by using products data - https://l6mihgafjg.execute-api.ap-south-1.amazonaws.com/test_xtage/prices/products
+Sample RESTful API by using products data [might not work] - https://l6mihgafjg.execute-api.ap-south-1.amazonaws.com/test_xtage/prices/products
 
 ## Setup Instructions
 ### Prerequisites
